@@ -1,0 +1,23 @@
+#Boxes: 10, #Pos: 44, #Fields: 70
+#Configs: 76918960118 (2^37) #BoxConfigs: 2481256778 (2^32) 
+
+depth 1: 1
+depth 2: 16
+depth 3: 132
+depth 4: 748
+depth 5: 3273
+depth 6: 11810
+depth 7: 36488
+depth 8: 98742
+depth 9: 237602
+depth 10: 514256
+depth 11: 1012676
+depth 12: 1836740
+depth 13: 3105665
+depth 14: 4946168
+depth 15: 7477855
+depth 16: 10790828
+depth 17: 14921105
+depth 18: 19828260
+
+Found solution with 18 pushes

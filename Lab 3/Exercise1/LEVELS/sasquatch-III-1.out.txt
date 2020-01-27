@@ -1,0 +1,47 @@
+#Boxes: 6, #Pos: 25, #Fields: 41
+#Configs: 3364900 (2^22) #BoxConfigs: 177100 (2^18) 
+
+depth 1: 1
+depth 2: 3
+depth 3: 3
+depth 4: 6
+depth 5: 20
+depth 6: 51
+depth 7: 101
+depth 8: 168
+depth 9: 267
+depth 10: 419
+depth 11: 620
+depth 12: 882
+depth 13: 1236
+depth 14: 1714
+depth 15: 2348
+depth 16: 3089
+depth 17: 3877
+depth 18: 4603
+depth 19: 5111
+depth 20: 5297
+depth 21: 5220
+depth 22: 5000
+depth 23: 4706
+depth 24: 4350
+depth 25: 3964
+depth 26: 3600
+depth 27: 3273
+depth 28: 3020
+depth 29: 2791
+depth 30: 2565
+depth 31: 2383
+depth 32: 2286
+depth 33: 2276
+depth 34: 2284
+depth 35: 2294
+depth 36: 2314
+depth 37: 2292
+depth 38: 2275
+depth 39: 2338
+depth 40: 2506
+depth 41: 2706
+depth 42: 2823
+
+Found solution with 42 pushes

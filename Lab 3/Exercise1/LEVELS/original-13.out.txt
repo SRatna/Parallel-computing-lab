@@ -1,0 +1,51 @@
+#Boxes: 10, #Pos: 39, #Fields: 65
+#Configs: 19708107276 (2^35) #BoxConfigs: 635745396 (2^30) 
+
+depth 1: 1
+depth 2: 5
+depth 3: 15
+depth 4: 57
+depth 5: 233
+depth 6: 790
+depth 7: 2188
+depth 8: 5224
+depth 9: 11372
+depth 10: 23369
+depth 11: 45919
+depth 12: 86375
+depth 13: 155439
+depth 14: 267784
+depth 15: 441457
+depth 16: 698563
+depth 17: 1068138
+depth 18: 1587577
+depth 19: 2295114
+depth 20: 3212115
+depth 21: 4325210
+depth 22: 5583169
+depth 23: 6910367
+depth 24: 8225015
+depth 25: 9452795
+depth 26: 10524354
+depth 27: 11365433
+depth 28: 11895098
+depth 29: 12040238
+depth 30: 11763411
+depth 31: 11092247
+depth 32: 10122910
+depth 33: 8987195
+depth 34: 7803529
+depth 35: 6653100
+depth 36: 5581224
+depth 37: 4610532
+depth 38: 3751021
+depth 39: 3004899
+depth 40: 2369546
+depth 41: 1838582
+depth 42: 1404520
+depth 43: 1059709
+depth 44: 792403
+depth 45: 587360
+depth 46: 431042
+
+Found solution with 46 pushes
